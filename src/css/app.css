@@ -1,0 +1,13 @@
+/* app global css */
+
+.bg-dark {
+  background: #0f0f0f !important;
+}
+
+.bg-light {
+  background: #ffffff !important;
+}
+
+.icon-light {
+  color: #030303;
+}
